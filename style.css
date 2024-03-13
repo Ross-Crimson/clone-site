@@ -1,0 +1,20 @@
+:root {
+    --blue: #52a7d3;
+}
+
+.btn-secondary {
+    border-radius: 100px;
+}
+
+.box-shadow {
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+}
+
+.custom-bg {
+    background-color: var(--blue);
+}
+
+.custom-bg-gradient {
+    background: rgb(82, 167, 211);
+    background: linear-gradient(0deg, rgba(82, 167, 211, 1) 0%, rgba(137, 196, 226, 1) 35%, rgba(170, 222, 249, 1) 100%);
+}
